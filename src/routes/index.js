@@ -1,9 +1,9 @@
 import { createStackNavigator, createAppContainer } from 'react-navigation'
 
-import Home from '../views/Public/Home'
+import Login from '../views/Public/Login'
 
 const AppNavigator = createStackNavigator({
-    Home
+    Login
 })
 
 export default createAppContainer(AppNavigator)
