@@ -1,1 +1,1 @@
-export const FETCH_DADOS = 'FETCH_DADOS'
+export const FETCH_LOGIN = 'FETCH_LOGIN'
